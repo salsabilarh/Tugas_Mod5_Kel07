@@ -14,18 +14,21 @@ export default function Game() {
         {
             title: "Valorant", id: 1,
             rate: 5,
+            genre: "First Percon Shooter",
             img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png",
             desc:"Valorant adalah penembak taktis berbasis tim dan penembak orang pertama yang diatur dalam dekat masa depan. Pemain bermain sebagai salah satu dari sekumpulan agen, karakter yang dirancang berdasarkan beberapa negara dan budaya di seluruh dunia."
         },
         {
             title: "Genshin Impact", id: 2,
             rate: 4,
+            genre: "Open World",
             img: "https://awsimages.detik.net.id/visual/2020/10/21/genshin-impact-ist_169.jpeg?w=650",
             desc:"Genshin Impact adalah permainan yang bergenre dunia terbuka (open world) sekaligus bermain peran aksi. Pada permainan ini, pemain memungkinkan untuk mengendalikan salah satu karakter yang dapat digantikan di dalam sebuah party (kelompok)."
         },
         {
             title: "PUBG", id: 3,
             rate: 4,
+            genre: "Battle Royale",
             img: "https://upload.wikimedia.org/wikipedia/id/9/9f/Pubgbattlegrounds.png",
             desc:"PUBG: Battlegrounds (sebelumnya dikenal sebagai PlayerUnknown's Battlegrounds) adalah sebuah permainan battle royale, di mana 100 orang sekaligus dapat bermain secara daring. Pemenang dari permainan ini adalah individu atau tim yang dapat bertahan hingga akhir."
         },
